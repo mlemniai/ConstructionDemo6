@@ -3,6 +3,8 @@
 
 #define TAILLEMAX 10
 
+/*Hello world*/
+
 void transposeMatrice (int a[][TAILLEMAX], int taille);
 
 void affiche_vecteur_int(int[], int);
@@ -16,7 +18,7 @@ int main(void){
   
   transposeMatrice (a, 3);
   
-  printf("\n");
+  printf("\n\n");
   affiche_matrice_int(a, 3);
   
   printf("\n");
