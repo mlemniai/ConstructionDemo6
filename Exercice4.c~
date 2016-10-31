@@ -4,7 +4,6 @@
 #define TAILLEMAX 10
 
 /*Hello world*/
-/*test commentaire 2 */
 
 void transposeMatrice (int a[][TAILLEMAX], int taille);
 
